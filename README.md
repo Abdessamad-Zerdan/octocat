@@ -1,17 +1,13 @@
 ### Hi there, I'm Abdessamad Zerdan! 👋
 
-I am a **Computer Engineering Student** (3rd Year) based in **Turkey**, originally from **Morocco**. I am passionate about bridging the gap between hardware logic and advanced Artificial Intelligence.
+I am a **Computer Engineering Student** (3rd Year) based in **Turkey**, originally from **Morocco**. I am passionate about advanced Artificial Intelligence.
 
 ---
 
-- 🔭 **I’m currently working on ...**
-  - Developing solutions for the **KKB Agentic AI Hackathon**.
-  - Preparing a research project proposal for **TÜBİTAK**.
 
 - 🌱 **I’m currently learning ...**
   - Advanced **Deep Learning** architectures & LLMs.
-  - **Digital Logic Design** and System Verilog.
-  - Spanish (adding to my fluency in English, French, Arabic, Turkish, and Amazigh).
+  - English, French, Arabic, Turkish
 
 - 👯 **I’m looking to collaborate on ...**
   - Open-source **Machine Learning** projects.
@@ -23,13 +19,11 @@ I am a **Computer Engineering Student** (3rd Year) based in **Turkey**, original
   - My experience studying engineering in a multilingual environment.
 
 - 📫 **How to reach me:**
-  - [LinkedIn Profile Link Here]
-  - [Your Email Address Here]
+  - https://www.linkedin.com/in/abdessamad-zerdan-258a771b5/
+  - zerdanabdessamad@gmail.com
 
-- ⚡ **Fun fact:**
-  - I balance my engineering studies with creative design—I run an Etsy apparel store called **'Tee Mood'** and I play the **electric guitar** (Jazz/Pop).
 
 ---
 ### 🛠 Languages & Tools
-**Tech:** Python, C++, Verilog, SQL, Git.
+**Tech:** Python, RAG, HuggingFace, Tensorflow, SQL, Git.
 **Interests:** Machine Learning, Digital Design, AI Engineering.
